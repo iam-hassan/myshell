@@ -33,6 +33,3 @@ exit
 
 ## Manual Testing
 Test all features using commands above. See project source for details.
-
-## Author
-[Your Name]
